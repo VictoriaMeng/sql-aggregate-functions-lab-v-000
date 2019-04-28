@@ -4,4 +4,3 @@
 --     grade INTEGER,
 --     gpa FLOAT,
 --     tardies INTEGER);
-
